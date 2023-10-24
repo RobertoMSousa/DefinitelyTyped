@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/hyperswarm",
+    "version": "0.0.1",
+    "projects": [
+        "https://github.com/holepunchto/hyperswarm"
+    ],
+    "devDependencies": {
+        "@types/hyperswarm": "workspace:."
+    },
+    "owners": [
+        {
+            "name": "Roberto Sousa",
+            "githubUsername": "RobertoMSousa"
+        }
+    ]
+}
